@@ -5,7 +5,9 @@ def fourth_challenge
       :matriarch => {name: "Lady Montague", age: "54"},
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
-        #your hashes here!
+        #storing 2 hashes within the array
+        {name: "Benvolio", age: "17", attitude: "worried"},
+        {name: "Steven", age: "30", attitude: "confused"}
       ]
    }, 
    :capulet => {
@@ -13,7 +15,10 @@ def fourth_challenge
       :matriarch => {name: "Lady Capulet", age: "51"},
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => [
-        #your hashes here!
+        #storing 2 hashes within the array
+        {name: "Mercutio", age: "18", attitude: "hot-headed"},
+        {name: "Nurse", age: "44", attitude: "worried"}
+
       ]
    }
 }
