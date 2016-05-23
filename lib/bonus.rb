@@ -21,6 +21,9 @@ def bonus
   }
 
   #code your solution here:
+  montagues = epic_tragedy[:montague] 
+  hero = montagues[2]
+  hero[2] = "dead"
 
   
 
