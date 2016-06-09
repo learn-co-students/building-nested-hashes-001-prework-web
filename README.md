@@ -22,7 +22,7 @@ What we have here is a nested data structure. There are different levels or tier
 
 epic_tragedy = {
   :montague => {
-    :patriarch => {  
+    :patriarch => {
       :name => "Lord Montague",
       :age => "53"
   },
